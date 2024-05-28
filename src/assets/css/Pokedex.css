@@ -1,0 +1,13 @@
+.Pokedex {
+    display: flex;
+    justify-content: center;
+    margin: 0 20%;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.Pokedex-title {
+    /* background-color: blue; */
+    color: peachpuff;
+    margin: 30px 100%;
+}
