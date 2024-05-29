@@ -1,12 +1,12 @@
 import { useState } from 'react'
 import './App.css'
-import Pokedex from './components/Pokedex';
+import Pokegame from './components/Pokegame';
 
 function App() {
 
   return (
     <>
-      <Pokedex />
+      <Pokegame />
     </>
   )
 }

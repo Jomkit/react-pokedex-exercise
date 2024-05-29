@@ -1,3 +1,9 @@
+.solo-center {
+    margin: 30px 100%;
+    min-width: 100%;
+    text-align: center;
+}
+
 .Pokedex {
     display: flex;
     justify-content: center;
@@ -9,5 +15,9 @@
 .Pokedex-title {
     /* background-color: blue; */
     color: peachpuff;
-    margin: 30px 100%;
+}
+
+.Pokedex-total-exp {
+    min-width: 200px;
+    text-align: center;
 }
